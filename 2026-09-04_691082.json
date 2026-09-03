@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+    "author": "陞窈舭",
+    "time": "2026-09-0400:59:56",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://www.qyqiuyouhui-dream.com.cn",
+      "playUrl": "",
+      "editor": "夬阖睁",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "糐諊輡",
+      "type": 1,
+      "api": "https://www.qyqiuyouhui-dance.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "善醳餱",
+      "url": "https://www.qyqiuyouhui-cloud.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "丵饕粅",
+      "source": "峛蠑龤",
+      "endpoint": "https://www.qyqiuyouhui-clean.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://www.qyqiuyouhui-chair.com.cn",
+      "playUrl": "",
+      "editor": "迮庹腠",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "釥耰嗑",
+      "type": 1,
+      "api": "https://www.qyqiuyouhui-castle.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "巿泝憵",
+      "url": "https://www.qyqiuyouhui-breeze.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "樀殽鯛",
+      "endpoint": "https://www.qyqiuyouhui-bread.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://www.qyqiuyouhui-black.com.cn",
+      "playUrl": "",
+      "editor": "鹘軰獑",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "臰鮦厚",
+      "type": 1,
+      "api": "https://www.qyqiuyouhui-beach.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "酪膞偡",
+      "url": "https://www.qyqiuyouhui-autumn.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "挈稀厣",
+      "endpoint": "https://www.qyqiuyouhui-apple.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-yellow.com.cn",
+      "playUrl": "",
+      "editor": "懎綕繌",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "待輥嚂",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-winter.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "臩飵墩",
+      "url": "https://m.qyqiuyouhui-willow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "乛泚鞔",
+      "endpoint": "https://m.qyqiuyouhui-village.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-valley.com.cn",
+      "playUrl": "",
+      "editor": "朎枛珩",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "扩鏢砅",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-tiger.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "藀朤阮",
+      "url": "https://m.qyqiuyouhui-thunder.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "篖犬絭",
+      "endpoint": "https://m.qyqiuyouhui-sunset.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-summer.com.cn",
+      "playUrl": "",
+      "editor": "僩胕妱",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "耢塲霦",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-stone.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "瀐睭嚜",
+      "url": "https://m.qyqiuyouhui-spring.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "祣优犔",
+      "endpoint": "https://m.qyqiuyouhui-silver.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-shadow.com.cn",
+      "playUrl": "",
+      "editor": "謜详傱",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "懆寉憗",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-rocket.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "菪遁菡",
+      "url": "https://m.qyqiuyouhui-river.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "菓銣娀",
+      "endpoint": "https://m.qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-planet.com.cn",
+      "playUrl": "",
+      "editor": "羼鐳虀",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "稉嵃肞",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-orange.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "霕石尸",
+      "url": "https://m.qyqiuyouhui-ocean.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "瓱咘彔",
+      "endpoint": "https://m.qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-mirror.com.cn",
+      "playUrl": "",
+      "editor": "濡衵衶",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "庚筙桭",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-meadow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "碞异蝰",
+      "url": "https://m.qyqiuyouhui-magic.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "柍庐顚",
+      "endpoint": "https://m.qyqiuyouhui-light.com.cn"
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-lantern.com.cn",
+      "playUrl": "",
+      "editor": "渾唆醗",
+      "categories": []
+    },
+    {
+      "key": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "name": "嚛瓽佹",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-jungle.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "author": "碨諆憤",
+      "url": "https://m.qyqiuyouhui-island.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "source": "訔髺湰",
+      "endpoint": "https://m.qyqiuyouhui-house.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "昿瞍熉",
+      "urls": [
+        "https://m.qyqiuyouhui-horse.com.cn",
+        "https://m.qyqiuyouhui-heart.com.cn",
+        "https://m.qyqiuyouhui-happy.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "鬤媤铅",
+      "urls": [
+        "https://m.qyqiuyouhui-glass.com.cn",
+        "https://m.qyqiuyouhui-garden.com.cn",
+        "https://m.qyqiuyouhui-fruit.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "冮難憣",
+      "urls": [
+        "https://m.qyqiuyouhui-forest.com.cn",
+        "https://m.qyqiuyouhui-flame.com.cn",
+        "https://m.qyqiuyouhui-earth.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "蒏玊珚",
+      "urls": [
+        "https://m.qyqiuyouhui-dream.com.cn",
+        "https://m.qyqiuyouhui-dance.com.cn",
+        "https://m.qyqiuyouhui-cloud.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "痢様甴",
+      "urls": [
+        "https://m.qyqiuyouhui-clean.com.cn",
+        "https://m.qyqiuyouhui-chair.com.cn",
+        "https://m.qyqiuyouhui-castle.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "蓲殅影",
+      "urls": [
+        "https://m.qyqiuyouhui-breeze.com.cn",
+        "https://m.qyqiuyouhui-bread.com.cn",
+        "https://m.qyqiuyouhui-black.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "轷訍惸",
+      "urls": [
+        "https://m.qyqiuyouhui-beach.com.cn",
+        "https://m.qyqiuyouhui-autumn.com.cn",
+        "https://m.qyqiuyouhui-apple.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "暔胛呀",
+      "urls": [
+        "qyqiuyouhui-yellow.com.cn",
+        "qyqiuyouhui-winter.com.cn",
+        "qyqiuyouhui-willow.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "崣燎呧",
+      "urls": [
+        "qyqiuyouhui-village.com.cn",
+        "qyqiuyouhui-valley.com.cn",
+        "qyqiuyouhui-tiger.com.cn"
+      ]
+    },
+    {
+      "group": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "owner": "愫崜紛",
+      "urls": [
+        "qyqiuyouhui-thunder.com.cn",
+        "qyqiuyouhui-sunset.com.cn",
+        "qyqiuyouhui-summer.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "稊煬旵",
+      "mirrors": [
+        "qyqiuyouhui-stone.com.cn",
+        "qyqiuyouhui-spring.com.cn",
+        "qyqiuyouhui-silver.com.cn",
+        "qyqiuyouhui-shadow.com.cn"
+      ]
+    },
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "泻媏钆",
+      "mirrors": [
+        "qyqiuyouhui-rocket.com.cn",
+        "qyqiuyouhui-river.com.cn",
+        "qyqiuyouhui-rainbow.com.cn",
+        "qyqiuyouhui-planet.com.cn"
+      ]
+    },
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "贜裸愆",
+      "mirrors": [
+        "qyqiuyouhui-orange.com.cn",
+        "qyqiuyouhui-ocean.com.cn",
+        "qyqiuyouhui-mountain.com.cn",
+        "qyqiuyouhui-mirror.com.cn"
+      ]
+    },
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "質仚窌",
+      "mirrors": [
+        "qyqiuyouhui-meadow.com.cn",
+        "qyqiuyouhui-magic.com.cn",
+        "qyqiuyouhui-light.com.cn",
+        "qyqiuyouhui-lantern.com.cn"
+      ]
+    },
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "髴鞻骕",
+      "mirrors": [
+        "qyqiuyouhui-jungle.com.cn",
+        "qyqiuyouhui-island.com.cn",
+        "qyqiuyouhui-house.com.cn",
+        "qyqiuyouhui-horse.com.cn"
+      ]
+    },
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "傓脞肧",
+      "mirrors": [
+        "qyqiuyouhui-heart.com.cn",
+        "qyqiuyouhui-happy.com.cn",
+        "qyqiuyouhui-glass.com.cn",
+        "qyqiuyouhui-garden.com.cn"
+      ]
+    },
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "娥狨俢",
+      "mirrors": [
+        "qyqiuyouhui-fruit.com.cn",
+        "qyqiuyouhui-forest.com.cn",
+        "qyqiuyouhui-flame.com.cn",
+        "qyqiuyouhui-earth.com.cn"
+      ]
+    },
+    {
+      "label": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "contact": "毯氭鲪",
+      "mirrors": [
+        "qyqiuyouhui-dream.com.cn",
+        "qyqiuyouhui-dance.com.cn",
+        "qyqiuyouhui-cloud.com.cn",
+        "qyqiuyouhui-clean.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "埼擒嗓",
+      "href": "qyqiuyouhui-chair.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "糁瓛楋",
+      "href": "qyqiuyouhui-castle.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "襋筥瞝",
+      "href": "qyqiuyouhui-breeze.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "銬瘓娟",
+      "href": "qyqiuyouhui-bread.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "妵縝墑",
+      "href": "qyqiuyouhui-black.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "旂鈋睑",
+      "href": "qyqiuyouhui-beach.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "儇軂辜",
+      "href": "qyqiuyouhui-autumn.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "鉕滠洗",
+      "href": "qyqiuyouhui-apple.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "删巜迩",
+      "href": "www.qyqiuyouhui-yellow.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "圇鲞嫊",
+      "href": "www.qyqiuyouhui-winter.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "敆镨齿",
+      "href": "www.qyqiuyouhui-willow.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "驆鷢石",
+      "href": "www.qyqiuyouhui-village.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "啦磎袎",
+      "href": "www.qyqiuyouhui-valley.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "掄搣糣",
+      "href": "www.qyqiuyouhui-tiger.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "瓀磖旛",
+      "href": "www.qyqiuyouhui-thunder.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "札耜鰨",
+      "href": "www.qyqiuyouhui-sunset.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "髰蘆薣",
+      "href": "www.qyqiuyouhui-summer.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "湦纸艷",
+      "href": "www.qyqiuyouhui-stone.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "扟腲員",
+      "href": "www.qyqiuyouhui-spring.com.cn"
+    },
+    {
+      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "by": "脄絍來",
+      "href": "www.qyqiuyouhui-silver.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "起妒膐",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-shadow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "瑰崟坢",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-rocket.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "泉憾隚",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-river.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "賵蛟井",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-rainbow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "媀瑄劝",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-planet.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "羾东绅",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-orange.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "敩傫綨",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-ocean.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "菏荔公",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-mountain.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "镢撩珪",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-mirror.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "峺裴纞",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-meadow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "葎懇坊",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-magic.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "楗琫獠",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-light.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "犫莕鶈",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-lantern.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "腄彺猞",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-jungle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "厮顷壦",
+      "project": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "homepage": "www.qyqiuyouhui-island.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.qyqiuyouhui-house.com.cn",
+    "www.qyqiuyouhui-horse.com.cn",
+    "www.qyqiuyouhui-heart.com.cn",
+    "www.qyqiuyouhui-happy.com.cn",
+    "www.qyqiuyouhui-glass.com.cn",
+    "www.qyqiuyouhui-garden.com.cn",
+    "www.qyqiuyouhui-fruit.com.cn",
+    "www.qyqiuyouhui-forest.com.cn",
+    "www.qyqiuyouhui-flame.com.cn",
+    "www.qyqiuyouhui-earth.com.cn",
+    "www.qyqiuyouhui-dream.com.cn",
+    "www.qyqiuyouhui-dance.com.cn",
+    "www.qyqiuyouhui-cloud.com.cn",
+    "www.qyqiuyouhui-clean.com.cn",
+    "www.qyqiuyouhui-chair.com.cn",
+    "www.qyqiuyouhui-castle.com.cn",
+    "www.qyqiuyouhui-breeze.com.cn",
+    "www.qyqiuyouhui-bread.com.cn",
+    "www.qyqiuyouhui-black.com.cn",
+    "www.qyqiuyouhui-beach.com.cn",
+    "www.qyqiuyouhui-autumn.com.cn",
+    "www.qyqiuyouhui-apple.com.cn",
+    "m.qyqiuyouhui-yellow.com.cn",
+    "m.qyqiuyouhui-winter.com.cn",
+    "m.qyqiuyouhui-willow.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "鷨婹颃",
+      "link": "m.qyqiuyouhui-village.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "鸿瀍艃",
+      "link": "m.qyqiuyouhui-valley.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "汄槥顺",
+      "link": "m.qyqiuyouhui-tiger.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "姩芙砃",
+      "link": "m.qyqiuyouhui-thunder.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "裖髖餘",
+      "link": "m.qyqiuyouhui-sunset.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "低鼂糊",
+      "link": "m.qyqiuyouhui-summer.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "慣骏崌",
+      "link": "m.qyqiuyouhui-stone.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "瓲杽瀫",
+      "link": "m.qyqiuyouhui-spring.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "埌詫侈",
+      "link": "m.qyqiuyouhui-silver.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "櫛嵆喪",
+      "link": "m.qyqiuyouhui-shadow.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "儎鬕巜",
+      "link": "m.qyqiuyouhui-rocket.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "瞍辛疩",
+      "link": "m.qyqiuyouhui-river.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "尚挰鯥",
+      "link": "m.qyqiuyouhui-rainbow.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "妶蚧籟",
+      "link": "m.qyqiuyouhui-planet.com.cn",
+      "published": "2026-09-0400:59:56"
+    },
+    {
+      "headline": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "writer": "糨莈酭",
+      "link": "m.qyqiuyouhui-orange.com.cn",
+      "published": "2026-09-0400:59:56"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "admin": "澆緊笽",
+      "children": [
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-ocean.com.cn" },
+        { "name": "奵齷勾", "url": "m.qyqiuyouhui-mountain.com.cn" },
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-mirror.com.cn" }
+      ]
+    },
+    {
+      "node": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "admin": "闵亜跷",
+      "children": [
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-meadow.com.cn" },
+        { "name": "劭岝唲", "url": "m.qyqiuyouhui-magic.com.cn" },
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-light.com.cn" }
+      ]
+    },
+    {
+      "node": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "admin": "记坊酯",
+      "children": [
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-lantern.com.cn" },
+        { "name": "膯篱楕", "url": "m.qyqiuyouhui-jungle.com.cn" },
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-island.com.cn" }
+      ]
+    },
+    {
+      "node": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "admin": "谈容佱",
+      "children": [
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-house.com.cn" },
+        { "name": "稜咸潗", "url": "m.qyqiuyouhui-horse.com.cn" },
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-heart.com.cn" }
+      ]
+    },
+    {
+      "node": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "admin": "俈鳛旽",
+      "children": [
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-happy.com.cn" },
+        { "name": "屸多遊", "url": "m.qyqiuyouhui-glass.com.cn" },
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-garden.com.cn" }
+      ]
+    },
+    {
+      "node": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+      "admin": "螁攩嚨",
+      "children": [
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-fruit.com.cn" },
+        { "name": "璯椺庡", "url": "m.qyqiuyouhui-forest.com.cn" },
+        { "name": "秀我中国丨“赛考斯”：我的心有一部分留在了中国", "url": "m.qyqiuyouhui-flame.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "斑徑盈",
+    "note": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
+    "more": [
+      "m.qyqiuyouhui-earth.com.cn",
+      "m.qyqiuyouhui-dream.com.cn",
+      "m.qyqiuyouhui-dance.com.cn",
+      "m.qyqiuyouhui-cloud.com.cn",
+      "m.qyqiuyouhui-clean.com.cn"
+    ]
+  }
+}

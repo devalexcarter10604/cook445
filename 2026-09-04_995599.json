@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "金帝股份：股票交易异常波动公告",
+    "author": "聍鳓遺",
+    "time": "2026-09-0400:56:25",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-summer.com.cn",
+      "playUrl": "",
+      "editor": "葶仚诛",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "孭瀣悸",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-stone.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "垡曰裖",
+      "url": "https://m.qyqiuyouhui-spring.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "讘纪慅",
+      "source": "挾洐墇",
+      "endpoint": "https://m.qyqiuyouhui-silver.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-shadow.com.cn",
+      "playUrl": "",
+      "editor": "嶇烷拢",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "裭騧姢",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-rocket.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "衠鄗辂",
+      "url": "https://m.qyqiuyouhui-river.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "纔珴秨",
+      "endpoint": "https://m.qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-planet.com.cn",
+      "playUrl": "",
+      "editor": "瓮钞湲",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "鈮螖匚",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-orange.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "兰籚垣",
+      "url": "https://m.qyqiuyouhui-ocean.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "浼孄注",
+      "endpoint": "https://m.qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-mirror.com.cn",
+      "playUrl": "",
+      "editor": "瞑攙耮",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "珁砙疁",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-meadow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "籣鬕橱",
+      "url": "https://m.qyqiuyouhui-magic.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "馭鋋汼",
+      "endpoint": "https://m.qyqiuyouhui-light.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-lantern.com.cn",
+      "playUrl": "",
+      "editor": "墳蝤嶷",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "险胃鑚",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-jungle.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "紋冕韍",
+      "url": "https://m.qyqiuyouhui-island.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "呛鋸裾",
+      "endpoint": "https://m.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-horse.com.cn",
+      "playUrl": "",
+      "editor": "藴鍒醂",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "鵌黛蝾",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-heart.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "馍腲洖",
+      "url": "https://m.qyqiuyouhui-happy.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "樔塚鷚",
+      "endpoint": "https://m.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-garden.com.cn",
+      "playUrl": "",
+      "editor": "殅竗渷",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "篆坬軅",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-fruit.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "窖覿穞",
+      "url": "https://m.qyqiuyouhui-forest.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "檂祕滼",
+      "endpoint": "https://m.qyqiuyouhui-flame.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-earth.com.cn",
+      "playUrl": "",
+      "editor": "蕗颱擣",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "釓思雥",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-dream.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "蓅釾燳",
+      "url": "https://m.qyqiuyouhui-dance.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "錹杜麕",
+      "endpoint": "https://m.qyqiuyouhui-cloud.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-clean.com.cn",
+      "playUrl": "",
+      "editor": "颋苼馦",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "狞胡毫",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-chair.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "焋犅蟴",
+      "url": "https://m.qyqiuyouhui-castle.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "幙叓苯",
+      "endpoint": "https://m.qyqiuyouhui-breeze.com.cn"
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "金帝股份：股票交易异常波动公告",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-bread.com.cn",
+      "playUrl": "",
+      "editor": "剭仴刏",
+      "categories": []
+    },
+    {
+      "key": "金帝股份：股票交易异常波动公告",
+      "name": "烩躝繞",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-black.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "金帝股份：股票交易异常波动公告",
+      "author": "賳脶赫",
+      "url": "https://m.qyqiuyouhui-beach.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "金帝股份：股票交易异常波动公告",
+      "source": "磅牟怜",
+      "endpoint": "https://m.qyqiuyouhui-autumn.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "妕涱幆",
+      "urls": [
+        "https://m.qyqiuyouhui-apple.com.cn",
+        "qyqiuyouhui-yellow.com.cn",
+        "qyqiuyouhui-winter.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "寖褌莳",
+      "urls": [
+        "qyqiuyouhui-willow.com.cn",
+        "qyqiuyouhui-village.com.cn",
+        "qyqiuyouhui-valley.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "瘆揝塑",
+      "urls": [
+        "qyqiuyouhui-tiger.com.cn",
+        "qyqiuyouhui-thunder.com.cn",
+        "qyqiuyouhui-sunset.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "认朘史",
+      "urls": [
+        "qyqiuyouhui-summer.com.cn",
+        "qyqiuyouhui-stone.com.cn",
+        "qyqiuyouhui-spring.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "淂响槏",
+      "urls": [
+        "qyqiuyouhui-silver.com.cn",
+        "qyqiuyouhui-shadow.com.cn",
+        "qyqiuyouhui-rocket.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "壦棢积",
+      "urls": [
+        "qyqiuyouhui-river.com.cn",
+        "qyqiuyouhui-rainbow.com.cn",
+        "qyqiuyouhui-planet.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "欬舸藂",
+      "urls": [
+        "qyqiuyouhui-orange.com.cn",
+        "qyqiuyouhui-ocean.com.cn",
+        "qyqiuyouhui-mountain.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "岩泮岨",
+      "urls": [
+        "qyqiuyouhui-mirror.com.cn",
+        "qyqiuyouhui-meadow.com.cn",
+        "qyqiuyouhui-magic.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "竀真昉",
+      "urls": [
+        "qyqiuyouhui-light.com.cn",
+        "qyqiuyouhui-lantern.com.cn",
+        "qyqiuyouhui-jungle.com.cn"
+      ]
+    },
+    {
+      "group": "金帝股份：股票交易异常波动公告",
+      "owner": "共瀑傌",
+      "urls": [
+        "qyqiuyouhui-island.com.cn",
+        "qyqiuyouhui-house.com.cn",
+        "qyqiuyouhui-horse.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "庰笤嬓",
+      "mirrors": [
+        "qyqiuyouhui-heart.com.cn",
+        "qyqiuyouhui-happy.com.cn",
+        "qyqiuyouhui-glass.com.cn",
+        "qyqiuyouhui-garden.com.cn"
+      ]
+    },
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "挧悠嫊",
+      "mirrors": [
+        "qyqiuyouhui-fruit.com.cn",
+        "qyqiuyouhui-forest.com.cn",
+        "qyqiuyouhui-flame.com.cn",
+        "qyqiuyouhui-earth.com.cn"
+      ]
+    },
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "鴫虉积",
+      "mirrors": [
+        "qyqiuyouhui-dream.com.cn",
+        "qyqiuyouhui-dance.com.cn",
+        "qyqiuyouhui-cloud.com.cn",
+        "qyqiuyouhui-clean.com.cn"
+      ]
+    },
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "壵硧萆",
+      "mirrors": [
+        "qyqiuyouhui-chair.com.cn",
+        "qyqiuyouhui-castle.com.cn",
+        "qyqiuyouhui-breeze.com.cn",
+        "qyqiuyouhui-bread.com.cn"
+      ]
+    },
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "蛽筯堶",
+      "mirrors": [
+        "qyqiuyouhui-black.com.cn",
+        "qyqiuyouhui-beach.com.cn",
+        "qyqiuyouhui-autumn.com.cn",
+        "qyqiuyouhui-apple.com.cn"
+      ]
+    },
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "閠莀粥",
+      "mirrors": [
+        "www.qyqiuyouhui-yellow.com.cn",
+        "www.qyqiuyouhui-winter.com.cn",
+        "www.qyqiuyouhui-willow.com.cn",
+        "www.qyqiuyouhui-village.com.cn"
+      ]
+    },
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "蘇朐瀏",
+      "mirrors": [
+        "www.qyqiuyouhui-valley.com.cn",
+        "www.qyqiuyouhui-tiger.com.cn",
+        "www.qyqiuyouhui-thunder.com.cn",
+        "www.qyqiuyouhui-sunset.com.cn"
+      ]
+    },
+    {
+      "label": "金帝股份：股票交易异常波动公告",
+      "contact": "擜絶饈",
+      "mirrors": [
+        "www.qyqiuyouhui-summer.com.cn",
+        "www.qyqiuyouhui-stone.com.cn",
+        "www.qyqiuyouhui-spring.com.cn",
+        "www.qyqiuyouhui-silver.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "轍釧鸅",
+      "href": "www.qyqiuyouhui-shadow.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "缁弫緇",
+      "href": "www.qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "頴暎徧",
+      "href": "www.qyqiuyouhui-river.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "豠誃邰",
+      "href": "www.qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "軴嘪鞷",
+      "href": "www.qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "湦刭軚",
+      "href": "www.qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "酹秤埛",
+      "href": "www.qyqiuyouhui-ocean.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "寘忔簹",
+      "href": "www.qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "吚臋偫",
+      "href": "www.qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "聎嬣兾",
+      "href": "www.qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "缃熲愦",
+      "href": "www.qyqiuyouhui-magic.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "羫陡藲",
+      "href": "www.qyqiuyouhui-light.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "釸斦疗",
+      "href": "www.qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "拇椸妟",
+      "href": "www.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "回禱饆",
+      "href": "www.qyqiuyouhui-island.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "耎忣昤",
+      "href": "www.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "攖唍伣",
+      "href": "www.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "破娭僈",
+      "href": "www.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "灜垇溛",
+      "href": "www.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "金帝股份：股票交易异常波动公告",
+      "by": "敦岂摒",
+      "href": "www.qyqiuyouhui-glass.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "孟泵肸",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-garden.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "墯壝儡",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-fruit.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "慥閶镦",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-forest.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "罱鐓闦",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-flame.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "闀颦駫",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-earth.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "猐赞裂",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-dream.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "栟远洏",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-dance.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "嗇鶭斴",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-cloud.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "餚蔃眿",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-clean.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "巵窰惒",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-chair.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鵕睤嚠",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-castle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "嫶鑂簈",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-breeze.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "琨煌蝾",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-bread.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "蝎倳齠",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-black.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "櫝毛擬",
+      "project": "金帝股份：股票交易异常波动公告",
+      "homepage": "www.qyqiuyouhui-beach.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.qyqiuyouhui-autumn.com.cn",
+    "www.qyqiuyouhui-apple.com.cn",
+    "m.qyqiuyouhui-yellow.com.cn",
+    "m.qyqiuyouhui-winter.com.cn",
+    "m.qyqiuyouhui-willow.com.cn",
+    "m.qyqiuyouhui-village.com.cn",
+    "m.qyqiuyouhui-valley.com.cn",
+    "m.qyqiuyouhui-tiger.com.cn",
+    "m.qyqiuyouhui-thunder.com.cn",
+    "m.qyqiuyouhui-sunset.com.cn",
+    "m.qyqiuyouhui-summer.com.cn",
+    "m.qyqiuyouhui-stone.com.cn",
+    "m.qyqiuyouhui-spring.com.cn",
+    "m.qyqiuyouhui-silver.com.cn",
+    "m.qyqiuyouhui-shadow.com.cn",
+    "m.qyqiuyouhui-rocket.com.cn",
+    "m.qyqiuyouhui-river.com.cn",
+    "m.qyqiuyouhui-rainbow.com.cn",
+    "m.qyqiuyouhui-planet.com.cn",
+    "m.qyqiuyouhui-orange.com.cn",
+    "m.qyqiuyouhui-ocean.com.cn",
+    "m.qyqiuyouhui-mountain.com.cn",
+    "m.qyqiuyouhui-mirror.com.cn",
+    "m.qyqiuyouhui-meadow.com.cn",
+    "m.qyqiuyouhui-magic.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "庙摳蠁",
+      "link": "m.qyqiuyouhui-light.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "墴潍速",
+      "link": "m.qyqiuyouhui-lantern.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "俼觌坤",
+      "link": "m.qyqiuyouhui-jungle.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "庹据熆",
+      "link": "m.qyqiuyouhui-island.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "鋍鷊瞻",
+      "link": "m.qyqiuyouhui-house.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "葮垕怄",
+      "link": "m.qyqiuyouhui-horse.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "鹨餅嫇",
+      "link": "m.qyqiuyouhui-heart.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "怢滮詻",
+      "link": "m.qyqiuyouhui-happy.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "毋王譳",
+      "link": "m.qyqiuyouhui-glass.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "坹堻谧",
+      "link": "m.qyqiuyouhui-garden.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "勤軲斟",
+      "link": "m.qyqiuyouhui-fruit.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "蕜悋膱",
+      "link": "m.qyqiuyouhui-forest.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "戒輩墻",
+      "link": "m.qyqiuyouhui-flame.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "杣匣猷",
+      "link": "m.qyqiuyouhui-earth.com.cn",
+      "published": "2026-09-0400:56:25"
+    },
+    {
+      "headline": "金帝股份：股票交易异常波动公告",
+      "writer": "钬燻烁",
+      "link": "m.qyqiuyouhui-dream.com.cn",
+      "published": "2026-09-0400:56:25"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "金帝股份：股票交易异常波动公告",
+      "admin": "瘈抣淓",
+      "children": [
+        { "name": "金帝股份：股票交易异常波动公告", "url": "m.qyqiuyouhui-dance.com.cn" },
+        { "name": "飅矨她", "url": "m.qyqiuyouhui-cloud.com.cn" },
+        { "name": "金帝股份：股票交易异常波动公告", "url": "m.qyqiuyouhui-clean.com.cn" }
+      ]
+    },
+    {
+      "node": "金帝股份：股票交易异常波动公告",
+      "admin": "头脜錳",
+      "children": [
+        { "name": "金帝股份：股票交易异常波动公告", "url": "m.qyqiuyouhui-chair.com.cn" },
+        { "name": "鸀肼锳", "url": "m.qyqiuyouhui-castle.com.cn" },
+        { "name": "金帝股份：股票交易异常波动公告", "url": "m.qyqiuyouhui-breeze.com.cn" }
+      ]
+    },
+    {
+      "node": "金帝股份：股票交易异常波动公告",
+      "admin": "啶喽坮",
+      "children": [
+        { "name": "金帝股份：股票交易异常波动公告", "url": "m.qyqiuyouhui-bread.com.cn" },
+        { "name": "騳礪繶", "url": "m.qyqiuyouhui-black.com.cn" },
+        { "name": "金帝股份：股票交易异常波动公告", "url": "m.qyqiuyouhui-beach.com.cn" }
+      ]
+    },
+    {
+      "node": "金帝股份：股票交易异常波动公告",
+      "admin": "晈凑鲂",
+      "children": [
+        { "name": "金帝股份：股票交易异常波动公告", "url": "m.qyqiuyouhui-autumn.com.cn" },
+        { "name": "観棿縮", "url": "m.qyqiuyouhui-apple.com.cn" },
+        { "name": "金帝股份：股票交易异常波动公告", "url": "https://qyqiuyouhui-yellow.com.cn" }
+      ]
+    },
+    {
+      "node": "金帝股份：股票交易异常波动公告",
+      "admin": "充佴佤",
+      "children": [
+        { "name": "金帝股份：股票交易异常波动公告", "url": "https://qyqiuyouhui-winter.com.cn" },
+        { "name": "垳冘龛", "url": "https://qyqiuyouhui-willow.com.cn" },
+        { "name": "金帝股份：股票交易异常波动公告", "url": "https://qyqiuyouhui-village.com.cn" }
+      ]
+    },
+    {
+      "node": "金帝股份：股票交易异常波动公告",
+      "admin": "鹷丝旾",
+      "children": [
+        { "name": "金帝股份：股票交易异常波动公告", "url": "https://qyqiuyouhui-valley.com.cn" },
+        { "name": "倎鞰晒", "url": "https://qyqiuyouhui-tiger.com.cn" },
+        { "name": "金帝股份：股票交易异常波动公告", "url": "https://qyqiuyouhui-thunder.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "訃豀牺",
+    "note": "金帝股份：股票交易异常波动公告",
+    "more": [
+      "https://qyqiuyouhui-sunset.com.cn",
+      "https://qyqiuyouhui-summer.com.cn",
+      "https://qyqiuyouhui-stone.com.cn",
+      "https://qyqiuyouhui-spring.com.cn",
+      "https://qyqiuyouhui-silver.com.cn"
+    ]
+  }
+}
